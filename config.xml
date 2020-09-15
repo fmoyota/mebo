@@ -3,11 +3,11 @@
     xmlns:gap   = "http://phonegap.com/ns/1.0"
     id          = "ec.com.edifarm.difaremebo"
     versionCode = "21"
-    version     = "2.1.1" >
+    version     = "2.1.2" >
 
 <!-- versionCode is optional and Android only -->
 
-  <name>MEBO</name>
+  <name>MEBO SCAR</name>
 
   <description>
       Scar Ungüento
